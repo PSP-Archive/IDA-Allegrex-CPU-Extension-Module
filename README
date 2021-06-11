@@ -1,0 +1,7 @@
+allegrex cpu extension plugin for IDA (requires mips support)
+
+just some quick notes:
+
+- the plugin was developed using IDA 4.9, so if you have that it should
+  compile out of the box. (should work with other versions though)
+- after compiling install the module in IDAs plugins subdirectoy
